@@ -35,6 +35,6 @@ Bob.change_age(34)
 Bob.add_track("UI/UX")
 Bob.get_score()
 
-
+print(Bob.get_score())
 #consol log return values of methods
 print(Bob.show())
